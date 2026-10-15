@@ -1,5 +1,5 @@
 locals {
-  org     = "aman"
+  org     = "parag-test-terraform"
   project = "netflix-clone"
   env     = var.env
 }
